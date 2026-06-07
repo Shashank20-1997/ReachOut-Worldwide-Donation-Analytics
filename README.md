@@ -1,5 +1,5 @@
 # ReachOut Worldwide Donation Analytics Dashboard
-![Dashboard Banner](Infographic.pdf)
+![Dashboard Banner](Infographic.jpg)
 
 ## Project Overview
 
